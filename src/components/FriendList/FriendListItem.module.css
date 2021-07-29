@@ -1,0 +1,23 @@
+.item {
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  width: 150px;
+  background-color: white;
+  /* justify-content: center; */
+  padding: 5px;
+  border-radius: 6px;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.status {
+  margin-right: 5px;
+}
+
+.avatar {
+  margin-right: 5px;
+  border-radius: 6px;
+}

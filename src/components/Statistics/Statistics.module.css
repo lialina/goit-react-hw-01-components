@@ -1,0 +1,17 @@
+.statistics {
+  margin-bottom: 50px;
+  background-color: #fff;
+}
+
+.title {
+  text-align: center;
+  padding: 10px;
+
+  font-size: 20px;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
