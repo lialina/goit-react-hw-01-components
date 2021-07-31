@@ -1,0 +1,22 @@
+.table {
+  background-color: rgb(214, 214, 214);
+}
+
+.header {
+  background-color: powderblue;
+  padding: 5px 30px 5px;
+  width: calc(100% / 3);
+}
+
+.type {
+  padding-left: 15px;
+}
+
+.amount {
+  text-align: right;
+  padding-right: 40px;
+}
+
+.currency {
+  text-align: center;
+}
